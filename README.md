@@ -12,7 +12,7 @@ generation forecast could be trusted when buying power ahead, for January 2026.
   time of day, and two numbers a buyer can act on: the share of forecast wind
   that turned up in 9 of 10 hours, and the shortfall to cover in 9 of 10 hours.
 
-Deployed app: _to be added_
+Deployed app: https://gznadf.vercel.app
 
 Video walkthrough: _to be added_
 
