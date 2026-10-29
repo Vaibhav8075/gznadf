@@ -234,7 +234,6 @@ Bad values return HTTP 422.
 - No bias correction or improved forecast is offered; the app measures the
   published forecast as it was.
 - The half-hours at hh:30 are not scored, because there is no forecast for them.
-- The Vercel setup is written but has not yet been deployed.
 
 ## AI tools used
 
